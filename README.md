@@ -7,6 +7,6 @@ To start the game press space and use the arrow keys to move you ship around. Ca
 
 Click [Here](https://github.com/carjeeptruckson/Fishing-Game/raw/main/fishing_game1.exe) to dowload the game or [Here](https://github.com/carjeeptruckson/Fishing-Game/blob/main/fishing_game.py) to view the python code. 
 
-.
+
 
 
